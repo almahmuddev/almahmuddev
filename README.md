@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**almahmuddev/almahmuddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mahmud 👋
 
-Here are some ideas to get you started:
+**Front-End Developer (React) | WordPress Specialist**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build modern, user-focused web applications and client-ready websites.
+
+---
+
+## 🚀 What I Do
+- ⚛️ Build React SPA applications
+- 🎨 Create responsive UI with Tailwind CSS
+- 🌐 Develop WordPress websites (Elementor, WPBakery)
+- ⚙️ Convert Figma/PSD to functional websites
+
+---
+
+## 🛠 Tech Stack
+Frontend: HTML, CSS, Tailwind, JavaScript (ES6), React  
+WordPress: Elementor, WPBakery  
+Tools: Git, GitHub, Vite, Netlify
+
+---
+
+## 📌 Featured Projects
+- 🔹 BookVibe – React book store SPA  
+- 🔹 DigiTools-interactive-store – React, Tailwind CSS, and Vite
+- 🔹 IssueFlow Tracker – Vanilla JS app  
+- 🔹 WordPress Business Website  
+
+---
+
+## 📈 Currently Improving
+- Advanced React patterns  
+- JavaScript problem solving  
+
+---
