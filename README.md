@@ -23,8 +23,8 @@ Tools: Git, GitHub, Vite, Netlify
 ---
 
 ## 📌 Featured Projects
-- 🔹 BookVibe – React book store SPA  
-- 🔹 DigiTools-interactive-store – React, Tailwind CSS, and Vite
+- 🔹 BookVibe [ https://bookvibe-react-book-store-ui.netlify.app/ ] – React book store SPA  
+- 🔹 DigiTools-interactive-store [ https://digitools-interactive-store.netlify.app/ ] – React, Tailwind CSS, and Vite
 - 🔹 IssueFlow Tracker – Vanilla JS app  
 - 🔹 WordPress Business Website  
 
