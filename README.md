@@ -3,7 +3,7 @@
 
 **Front-End Developer (React) | WordPress Specialist**
 
-I build modern, user-focused web applications and scalable client-ready websites.
+I perticipate on building modern, user-focused web applications and scalable client-ready websites.
 
 ---
 
@@ -26,7 +26,7 @@ I build modern, user-focused web applications and scalable client-ready websites
 ### 📌 Featured Projects
 * **🔹[BookVibe](https://bookvibe-react-book-store-ui.netlify.app/)** – A React-based book store SPA featuring advanced filtering and data-driven views.
 * **🔹[DigiTools](https://digitools-interactive-store.netlify.app/)** – An interactive digital storefront built with React, Tailwind, and Vite.
-* **🔹IssueFlow Tracker** – A vanilla JavaScript application focused on DOM manipulation and state logic.
+* **🔹[IssueFlow Tracker](https://almahmuddev.github.io/issueflow-tracker/)** – A vanilla JavaScript application focused on DOM manipulation and state logic.
 * **🔹Wordpress Business Website** – A vanilla JavaScript application focused on DOM manipulation and state logic.
 
 ---
