@@ -36,12 +36,12 @@ bring creative ideas into reality.
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p text-align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=almahmuddev&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almahmuddev&layout=compact&theme=radical&hide_border=true" width="40%" />
 </p>
 
-<p align="center">
+<p text-align="center">
   <img src="https://streak-stats.demolab.com?user=almahmuddev&theme=radical&hide_border=true" width="50%" />
 </p>
 
@@ -60,7 +60,7 @@ bring creative ideas into reality.
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p text-align="left">
   <a href="https://www.linkedin.com/in/almahmuddev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -77,6 +77,6 @@ bring creative ideas into reality.
 
 ---
 
-<p align="center">
+<p text-align="center">
   <img src="https://komarev.com/ghpvc/?username=almahmuddev&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
