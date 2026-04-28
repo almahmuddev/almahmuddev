@@ -1,15 +1,15 @@
 <!-- Banner Image -->
 ![Banner](./assets/linkedin-banner-image-enhanced.png)
 
-<h1 text-align="center">Hi, I'm Abdullah Al Mahmud Khan 👋</h1>
-<h3 text-alignalign="center">Front-End Developer (React) | WordPress Specialist</h3>
-<p text-alignalign="center">Perticipate on building modern, user-focused web applications and scalable client-ready websites from Sylhet, Bangladesh 🇧🇩</p>
+<h1 align="center">Hi, I'm Abdullah Al Mahmud Khan 👋</h1>
+<h3 alignalign="center">Front-End Developer (React) | WordPress Specialist</h3>
+<p alignalign="center">Perticipating in building modern, user-focused web applications and scalable client-ready websites from Sylhet, Bangladesh 🇧🇩</p>
 
 ---
 
 ## 🙋 About Me
 
-Front-End Developer and WordPress Expert having 2 & half years of experience delivering 15+
+Front-End Developer and WordPress Expert having 2.5 years + of experience delivering 15+
 websites across various industries. Skilled in React, JavaScript (ES6+), HTML5, CSS3, Tailwind,
 Bootstrap, and end-to-end WordPress solutions — focused on performance, clean code, and real
 business results. Experienced in converting Figma/PSD-designed mockups into completely
@@ -19,14 +19,14 @@ bring creative ideas into reality.
 - 🔭 Currently working on a **Appverse React SPA** project
 - 🌱 Exploring **Next.js** for server-side rendering and SEO-first development
 - ⚡ Mastering **Advanced React patterns** and performance optimization
-- 🤝 Mentored WordPress web development enthusiasts in Sylhet community
+- 🤝 Mentored aspiring WordPress web developers in the Sylhet community
 - 📫 Reach me at: **devalmahmud@gmail.com**
 
 ---
 
 ## 🛠️ Skills
 
-<p text-align="left">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind,bootstrap,wordpress,git,github,vite,figma,netlify" />
   </a>
@@ -36,12 +36,12 @@ bring creative ideas into reality.
 
 ## 📊 GitHub Stats
 
-<p text-align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=almahmuddev&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almahmuddev&layout=compact&theme=radical&hide_border=true" width="40%" />
 </p>
 
-<p text-align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=almahmuddev&theme=radical&hide_border=true" width="50%" />
 </p>
 
@@ -60,7 +60,7 @@ bring creative ideas into reality.
 
 ## 🌐 Connect With Me
 
-<p text-align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/almahmuddev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -77,6 +77,6 @@ bring creative ideas into reality.
 
 ---
 
-<p text-align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=almahmuddev&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
