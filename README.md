@@ -76,13 +76,26 @@ I leverage AI and automated techniques to shorten the development period and opt
 
 Here are some of my recent projects that showcase my skills in full-stack and front-end development, UI/UX implementation, and database integration.
 
-| Project | Description | Technologies | Links |
+<!-- | Project | Description | Technologies | Links |
 | :--- | :--- | :--- | :--- |
 | 📚 **Next.js Library System** | A full-stack library management system with secure authentication, real-time search, category filtering, digital borrowing, and user profiles. | Next.js 14 (App Router), MongoDB, Tailwind CSS, BetterAuth | [Live Demo](https://next-library-system-iota.vercel.app/) \| [Source Code](https://github.com/almahmuddev/next-library-system) |
 | 📚 **BookVibe** | A comprehensive, dark-themed book store SPA featuring a browsable catalog, shopping cart, wishlist functionality, and an analytics dashboard. | React, Vite, Tailwind CSS | [Live Demo](https://almahmuddev.github.io/dashboard) \| [Source Code](https://github.com/almahmuddev/bookvibe) |
 | 🛒 **DigiTools** | An interactive and modern digital storefront with a dynamic cart system and seamless UI toggles for an enhanced shopping experience. | React, Tailwind CSS, Vite | [Live Demo](https://almahmuddev.github.io/DigiTools-interactive-store/) \| [Source Code](https://github.com/almahmuddev/DigiTools-interactive-store) |
 | 🐛 **IssueFlow Tracker** | A clean, interactive issue tracking dashboard inspired by GitHub. Features real-time search, filtering, and DOM state logic. | Vanilla JS, HTML, CSS | [Live Demo](https://almahmuddev.github.io/issueflow-tracker/) \| [Source Code](https://github.com/almahmuddev/issueflow-tracker) |
-| 🌌 **Appverse SPA** | A fully-featured React Single Page Application demonstrating advanced routing, LocalStorage integration, and a robust Dark Mode implementation. | React, React Router | [Live Demo](#) \| [Source Code](https://github.com/almahmuddev/AppVerse-A-Complete-React-SPA) |
+| 🌌 **Appverse SPA** | A fully-featured React Single Page Application demonstrating advanced routing, LocalStorage integration, and a robust Dark Mode implementation. | React, React Router | [Live Demo](#) \| [Source Code](https://github.com/almahmuddev/AppVerse-A-Complete-React-SPA) | -->
+
+| Project | Description | Technologies | Links |
+| :--- | :--- | :--- | :--- |
+
+| 📚 **Next.js Library System** | A full-stack library management system with secure authentication, real-time search, category filtering, digital borrowing, and user profiles. | Next.js 14 (App Router), MongoDB, Tailwind CSS, BetterAuth | <a href="https://next-library-system-iota.vercel.app/" target="_blank">Live Demo</a> \| <a href="https://github.com/almahmuddev/next-library-system" target="_blank">Source Code</a> |
+
+| 📚 **BookVibe** | A comprehensive, dark-themed book store SPA featuring a browsable catalog, shopping cart, wishlist functionality, and an analytics dashboard. | React, Vite, Tailwind CSS | <a href="https://almahmuddev.github.io/dashboard" target="_blank">Live Demo</a> \| <a href="https://github.com/almahmuddev/bookvibe" target="_blank">Source Code</a> |
+
+| 🛒 **DigiTools** | An interactive and modern digital storefront with a dynamic cart system and seamless UI toggles for an enhanced shopping experience. | React, Tailwind CSS, Vite | <a href="https://almahmuddev.github.io/DigiTools-interactive-store/" target="_blank">Live Demo</a> \| <a href="https://github.com/almahmuddev/DigiTools-interactive-store" target="_blank">Source Code</a> |
+
+| 🐛 **IssueFlow Tracker** | A clean, interactive issue tracking dashboard inspired by GitHub. Features real-time search, filtering, and DOM state logic. | Vanilla JS, HTML, CSS | <a href="https://almahmuddev.github.io/issueflow-tracker/" target="_blank">Live Demo</a> \| <a href="https://github.com/almahmuddev/issueflow-tracker" target="_blank">Source Code</a> |
+
+| 🌌 **Appverse SPA** | A fully-featured React Single Page Application demonstrating advanced routing, LocalStorage integration, and a robust Dark Mode implementation. | React, React Router | <a href="#" target="_blank">Live Demo</a> \| <a href="https://github.com/almahmuddev/AppVerse-A-Complete-React-SPA" target="_blank">Source Code</a> |
 
 
 ---
