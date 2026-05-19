@@ -114,6 +114,6 @@ Here are some of my recent projects that showcase my skills in full-stack and fr
 ---
 
 <div align="center">
-  <i>"Simplicity is the soul of efficiency." – Austin Freeman</i><br><br>
+  <i>**"Simplicity is the soul of efficiency." – Austin Freeman**</i><br><br>
   <img src="https://komarev.com/ghpvc/?username=almahmuddev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
