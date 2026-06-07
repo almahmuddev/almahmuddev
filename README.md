@@ -93,9 +93,9 @@ Here are some of my recent projects that showcase my skills in full-stack and fr
 
 | 🛒 **DigiTools** | An interactive and modern digital storefront with a dynamic cart system and seamless UI toggles for an enhanced shopping experience. | React, Tailwind CSS, Vite | <a href="https://almahmuddev.github.io/DigiTools-interactive-store/" target="_blank">Live Demo</a> \| <a href="https://github.com/almahmuddev/DigiTools-interactive-store" target="_blank">Source Code</a> |
 
-| 🐛 **IssueFlow Tracker** | A clean, interactive issue tracking dashboard inspired by GitHub. Features real-time search, filtering, and DOM state logic. | Vanilla JS, HTML, CSS | <a href="https://almahmuddev.github.io/issueflow-tracker/" target="_blank">Live Demo</a> \| <a href="https://github.com/almahmuddev/issueflow-tracker" target="_blank">Source Code</a> |
+| 🐛 **IssueFlow Tracker** | A clean, interactive issue tracking dashboard inspired by GitHub. Features real-time search, filtering, and DOM state logic. | Vanilla JS, HTML, CSS | <a href="https://almahmuddev.github.io/issueflow-tracker/" target="_blank">Live Demo</a> \| <a href="https://issueflow-tracker.netlify.app/" target="_blank">Source Code</a> |
 
-| 🌌 **Appverse SPA** | A fully-featured React Single Page Application demonstrating advanced routing, LocalStorage integration, and a robust Dark Mode implementation. | React, React Router | <a href="#" target="_blank">Live Demo</a> \| <a href="https://github.com/almahmuddev/AppVerse-A-Complete-React-SPA" target="_blank">Source Code</a> |
+| 🌌 **Appverse SPA** | A fully-featured React Single Page Application demonstrating advanced routing, LocalStorage integration, and a robust Dark Mode implementation. | React, React Router | <a href="#" target="_blank">Live Demo</a> \| <a href="https://appverse-a-react-spa.netlify.app/" target="_blank">Source Code</a> |
 
 
 ---
