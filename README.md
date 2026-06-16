@@ -19,16 +19,15 @@
 
 ## 🙋 About Me
 
-
-I am a Front-End Developer and WordPress Expert with over two and a half years of experience having successfully delivered 15+ websites across various industries. My areas of expertise include state-of-the-art technologies such as React.js, Next.js, JavaScript (ES6+), and Tailwind CSS, along with comprehensive knowledge of MongoDB for database handling. In addition, I specialize in complete WordPress solutions that deliver flawless execution,  converting Figma/PSD designs into pixel-perfect, fully functional websites.
+I am a Front-End Developer and WordPress Expert with over two and a half years of experience having successfully developed 15+ websites across various industries. My areas of expertise include state-of-the-art technologies such as React.js, Next.js, JavaScript (ES6+), and Tailwind CSS, along with comprehensive knowledge of MongoDB for database handling. In addition, I specialize in complete WordPress solutions that deliver flawless execution,  converting Figma/PSD designs into pixel-perfect, fully functional websites.
 
 In a rapidly evolving technological landscape, I position myself as an Architect of Integration—combining strong engineering fundamentals with the intelligent use of AI. I don’t rely on AI blindly; I use it in my work to boost productivity, improve code quality, and solve problems more efficiently. 
 
 I leverage AI and automated techniques to shorten the development period and optimize logic to ensure that my solutions are not only efficient and scalable but also intelligently designed to adapt to future advancements.
 
-*   🔭 **Currently working on:** Developing **next-library-system** – a full-stack library management solution built using Next.js and MongoDB with advanced functionality and scalability.
-*   🌱 **Currently learning:** Enhancing my skills in **React** and **Next.js**, with a focus on better performance patterns, modern frontend architecture, and improving real-world project quality. Also gaining experience in integrating MongoDB with Next.js applications.
-*   ⚡ **Focus areas:** Advanced React patterns, performance optimization, accessible UI design, and integrating intelligent features into web applications.
+*   🔭 **Currently working on:** Migrating my personal portfolio — **almahmuddev.com** — into a production-grade Next.js 14 project.
+*   🌱 **Currently learning:** Advanced Next.js patterns, server actions, and modern full-stack architecture with MongoDB. Also gaining experience in integrating MongoDB with Next.js applications.
+*   ⚡ **Focus areas:** Advanced React patterns, performance optimization, accessible UI design, and full-stack Next.js development.
 *   🤝 **Community involvement:** Mentoring aspiring WordPress and web developers in the Sylhet tech community.
 *   📫 **How to reach me:** Feel free to connect via [LinkedIn](https://linkedin.com/in/almahmuddev) or drop me an email at **devalmahmud@gmail.com** for collaborations or opportunities!
 
