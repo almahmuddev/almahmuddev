@@ -77,14 +77,16 @@ Here are some of my recent projects that showcase my skills in full-stack and fr
 
 <!-- | Project | Description | Technologies | Links |
 | :--- | :--- | :--- | :--- |
+| 📚 **DriveFleet** | A full-stack car rental platform with real-time booking, role-based dashboards for users and admins, and secure auth via JWT in HTTPOnly cookies. | React 18, Vite, Node.js, Express, MongoDB, Firebase Auth | [Live Demo](https://drivefleet-client-three.vercel.app/) \| [Source Code](https://github.com/almahmuddev/drivefleet-client) |
 | 📚 **Next.js Library System** | A full-stack library management system with secure authentication, real-time search, category filtering, digital borrowing, and user profiles. | Next.js 14 (App Router), MongoDB, Tailwind CSS, BetterAuth | [Live Demo](https://next-library-system-iota.vercel.app/) \| [Source Code](https://github.com/almahmuddev/next-library-system) |
 | 📚 **BookVibe** | A comprehensive, dark-themed book store SPA featuring a browsable catalog, shopping cart, wishlist functionality, and an analytics dashboard. | React, Vite, Tailwind CSS | [Live Demo](https://bookvibe-phi.vercel.app/) \| [Source Code](https://github.com/almahmuddev/bookvibe) |
 | 🛒 **DigiTools** | An interactive and modern digital storefront with a dynamic cart system and seamless UI toggles for an enhanced shopping experience. | React, Tailwind CSS, Vite | [Live Demo](https://almahmuddev.github.io/DigiTools-interactive-store/) \| [Source Code](https://github.com/almahmuddev/DigiTools-interactive-store) |
-| 🐛 **IssueFlow Tracker** | A clean, interactive issue tracking dashboard inspired by GitHub. Features real-time search, filtering, and DOM state logic. | Vanilla JS, HTML, CSS | [Live Demo](https://almahmuddev.github.io/issueflow-tracker/) \| [Source Code](https://github.com/almahmuddev/issueflow-tracker) |
-| 🌌 **Appverse SPA** | A fully-featured React Single Page Application demonstrating advanced routing, LocalStorage integration, and a robust Dark Mode implementation. | React, React Router | [Live Demo](https://almahmuddev.github.io/AppVerse-A-Complete-React-SPA/) \| [Source Code](https://github.com/almahmuddev/AppVerse-A-Complete-React-SPA) | -->
+| 🐛 **IssueFlow Tracker** | A clean, interactive issue tracking dashboard inspired by GitHub. Features real-time search, filtering, and DOM state logic. | Vanilla JS, HTML, CSS | [Live Demo](https://almahmuddev.github.io/issueflow-tracker/) \| [Source Code](https://github.com/almahmuddev/issueflow-tracker) | -->
 
 | Project | Description | Technologies | Links |
 | :--- | :--- | :--- | :--- |
+
+| 📚 **DriveFleet** | A full-stack car rental platform with real-time booking, role-based dashboards for users and admins, and secure auth via JWT in HTTPOnly cookies. | React 18, Vite, Node.js, Express, MongoDB, Firebase Auth | [Live Demo](https://drivefleet-client-three.vercel.app/) \| [Source Code](https://github.com/almahmuddev/drivefleet-client) |
 
 | 📚 **Next.js Library System** | A full-stack library management system with secure authentication, real-time search, category filtering, digital borrowing, and user profiles. | Next.js 14 (App Router), MongoDB, Tailwind CSS, BetterAuth | <a href="https://next-library-system-iota.vercel.app/" target="_blank">Live Demo</a> \| <a href="https://github.com/almahmuddev/next-library-system" target="_blank">Source Code</a> |
 
